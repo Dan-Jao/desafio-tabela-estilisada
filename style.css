@@ -1,5 +1,6 @@
 .texto {
     color: white;
+
 }
 
 .cabecalho-moda {
@@ -12,4 +13,9 @@
 
 .fundo-valores {
     background-color: #424250;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
 }
