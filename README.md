@@ -1,4 +1,4 @@
-# desafio-tabela-estilizada
+# Quest HTML + CSS básicos - Tabela estilizada
 
 - Faça uma tabela de roupas com tamanho e valor da peça descrito em cada
 linha.
